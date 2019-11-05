@@ -1,0 +1,273 @@
+body{
+	background-color: #f2f2ff;
+}
+
+#puzzle{
+	width: 600px;
+	height: 400px;
+	margin: 40px;
+	border: 4px solid black;
+}
+.topleft{
+	position: absolute;
+	top: 44px;
+	bottom: 52px;
+}
+.topright{
+	position: absolute;
+	top: 44px;
+	bottom: 616px;
+	left: 616px;
+}
+.bottomright{
+	position: absolute;
+	top: 385px;
+	bottom: 595px;
+	right: 867px;
+}
+.bottomleft{
+	position: absolute;
+	top:353px;
+	bottom:53px;
+	left: 52px;
+}
+#puzzle>img:nth-child(2){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 103px;
+	
+}
+#puzzle>img:nth-child(3){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 185px;
+}
+#puzzle>img:nth-child(4){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 242px;
+}
+#puzzle>img:nth-child(5){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 292px;
+}
+#puzzle>img:nth-child(6){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 366px;
+}
+#puzzle>img:nth-child(7){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 430px;
+}
+#puzzle>img:nth-child(8){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 499px;
+}
+#puzzle>img:nth-child(9){
+	position: absolute;
+	top:44px;
+	bottom: 52px;
+	left: 565px;
+}
+#puzzle>img:nth-child(11){
+	position: absolute;
+	top: 96px;
+}
+#puzzle>img:nth-child(12){
+	position: absolute;
+	top:127px;
+	left: 103px;
+}
+#puzzle>img:nth-child(13){
+	position: absolute;
+	top:110px;
+	left: 185px;
+}
+#puzzle>img:nth-child(14){
+	position: absolute;
+	top:136px;
+	left: 242px;
+}
+#puzzle>img:nth-child(15){
+	position: absolute;
+	top:108px;
+	left: 292px;
+}
+#puzzle>img:nth-child(16){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(17){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(18){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(19){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(20){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(21){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(22){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(23){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(24){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(25){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(26){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}#puzzle>img:nth-child(27){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(28){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(29){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(30){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(31){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(32){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(33){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(34){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(35){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(36){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(37){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(38){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(39){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(40){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(42){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(43){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(44){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(45){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(46){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(47){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(48){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+#puzzle>img:nth-child(49){
+	position: absolute;
+	top:700px;
+	right: 10px;
+}
+
+
+
