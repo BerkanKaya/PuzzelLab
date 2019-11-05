@@ -21,7 +21,7 @@ body{
 }
 .bottomright{
 	position: absolute;
-	bottom: 59px;
+	top: 385px;
 	left: 595px;
 }
 .bottomleft{
@@ -230,42 +230,42 @@ body{
 }
 #puzzle>img:nth-child(42){
 	position: absolute;
-	bottom: 59px;
+	top: 385px;
 	left: 128px;
 }
 #puzzle>img:nth-child(43){
 	position: absolute;
-	bottom: 59px;
+	top: 398px;
 	left: 179px;
 }
 #puzzle>img:nth-child(44){
 	position: absolute;
-	bottom: 59px;
+	top: 378px;
 	left: 234px;
 }
 #puzzle>img:nth-child(45){
 	position: absolute;
-	bottom:59px;
+	top: 399px;
 	left: 302px;
 }
 #puzzle>img:nth-child(46){
 	position: absolute;
-	bottom: 59px;
+	top: 379px;
 	left: 356px;
 }
 #puzzle>img:nth-child(47){
 	position: absolute;
-	bottom: 59px;
+	top: 370px;
 	left: 417px;
 }
 #puzzle>img:nth-child(48){
 	position: absolute;
-	bottom: 59px;
+	top: 397px;
 	left:511px;
 }
 #puzzle>img:nth-child(49){
 	position: absolute;
-	bottom: 59px;
+	top: 416px;
 	left: 555px;
 }
 
